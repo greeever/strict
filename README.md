@@ -1,0 +1,2 @@
+# strict
+Created with CodeSandbox
